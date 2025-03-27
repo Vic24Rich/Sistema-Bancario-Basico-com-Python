@@ -14,7 +14,7 @@ Sendo salvo em merória os valores aplicados e mostrados em tela assim que selec
 
 - Instale Python 3.X em sua Máquina;
 - Use o comando:
-   Code: py proj-conta-banc.py
+   > py proj-conta-banc.py
 
 ### 🛠️Tecnologias utilizadas:
 
